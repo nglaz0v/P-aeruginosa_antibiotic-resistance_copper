@@ -1,0 +1,2 @@
+Sample	command
+SRR12905311_1	fastp --overrepresentation_analysis --trim_poly_g -f 12 -t 2 -h quality_check/SRR12905311.fastp.html -j quality_check/SRR12905311.fastp.json --thread 12 -i reads/SRR12905311_1.fastq.gz -I reads/SRR12905311_2.fastq.gz -o trimmed/SRR12905311_1.fastq.gz -O trimmed/SRR12905311_2.fastq.gz 

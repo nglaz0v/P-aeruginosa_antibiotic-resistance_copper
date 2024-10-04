@@ -1,0 +1,4 @@
+Module	Section	Sample Name	Source
+fastp	all_sections	SRR12905311_1	/home/nikolay/BioGen/project/quality_check/SRR12905311.fastp.json
+FastQC	all_sections	SRR12905311_2	/home/nikolay/BioGen/project/quality_check/SRR12905311_2_fastqc.zip
+FastQC	all_sections	SRR12905311_1	/home/nikolay/BioGen/project/quality_check/SRR12905311_1_fastqc.zip

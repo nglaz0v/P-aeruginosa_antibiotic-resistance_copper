@@ -1,0 +1,7 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+assembly/spades-original/scaffolds.fasta	NODE_19_length_125546_cov_19.014391	14999	15805	+	aph(3')-IIb	1-807/807	===============	0/0	100.00	98.76	ncbi	NG_047423.1	aminoglycoside O-phosphotransferase APH(3')-IIb	KANAMYCIN
+assembly/spades-original/scaffolds.fasta	NODE_19_length_125546_cov_19.014391	28161	29354	-	blaPDC-22	1-1194/1194	===============	0/0	100.00	99.92	ncbi	NG_049895.1	class C beta-lactamase PDC-22	CEPHALOSPORIN
+assembly/spades-original/scaffolds.fasta	NODE_1_length_586871_cov_19.202592	359328	360518	+	tet(C)	1-1191/1191	===============	0/0	100.00	100.00	ncbi	NG_048177.1	tetracycline efflux MFS transporter Tet(C)	TETRACYCLINE
+assembly/spades-original/scaffolds.fasta	NODE_27_length_78902_cov_18.357934	51094	51732	-	catB7	1-639/639	===============	0/0	100.00	98.75	ncbi	NG_047614.1	type B-4 chloramphenicol O-acetyltransferase CatB7	CHLORAMPHENICOL
+assembly/spades-original/scaffolds.fasta	NODE_4_length_463771_cov_18.576737	256133	256540	-	fosA-354827590	1-408/408	===============	0/0	100.00	99.27	ncbi	NG_047883.1	FosA family fosfomycin resistance glutathione transferase	FOSFOMYCIN
+assembly/spades-original/scaffolds.fasta	NODE_9_length_276151_cov_20.041413	162602	163390	+	blaOXA-395	1-789/789	===============	0/0	100.00	99.24	ncbi	NG_049684.1	OXA-50 family oxacillin-hydrolyzing class D beta-lactamase OXA-395	BETA-LACTAM
